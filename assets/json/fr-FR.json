@@ -1,1 +1,20 @@
-{"Hello":"Bonjour","Error":"Erreur","Test":"Test","Software":"Logiciel","Hardware":"Équipement","Server":"Serveur","Date":"17.11.2021","Number":2021}
+{
+  "Hello": "Bonjour",
+  "Error": "Erreur",
+  "Test": "Test",
+  "Software": "Logiciel",
+  "Hardware": "Équipement",
+  "Server": "Serveur",
+  "Date": "17.11.2021",
+  "Number": 2021,
+  "Design": {
+    "Hello": "Chat",
+    "Error": "Chien",
+    "Test": "Girafe",
+    "Software": "Singe",
+    "Hardware": "Poisson",
+    "Server": "marché",
+    "Date": "17.11.2021",
+    "Number": 2021
+  }
+}

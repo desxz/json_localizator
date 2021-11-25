@@ -6,5 +6,15 @@
     "Hardware" : "Donanım",
     "Server" : "Sunucu",
     "Date" : "17.11.2021",
-    "Number" : 2021
+    "Number" : 2021,
+    "Design" : {
+        "Hello" : "Kedi",
+        "Error" : "Köpek",
+        "Test" : "Zürafa",
+        "Software" : "Maymun",
+        "Hardware" : "Balık",
+        "Server" : "Pazar",
+        "Date" : "17.11.2021",
+        "Number" : 2021
+    }
 }
