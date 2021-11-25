@@ -9,7 +9,7 @@ Supported more than 100 languages. All of languages and short forms [here.](http
 You can download JsonLocalizator v1.0.0
 
 ## Windows
-[Download](github.com/desxz/json_localizator/releases/tag/JsonLocalizator)
+[Download](https://github.com/desxz/json_localizator/releases/tag/JsonLocalizator)
 
 # Usage
 
@@ -24,7 +24,7 @@ These informations are below;
 ## Execution
 Run json_localizator.exe file
 
-![Using Example](https://github.com/desxz/json_localizator/blob/main/assets/image/cmd.PNG)
+![Using Example](https://github.com/desxz/json_localizator/blob/main/assets/image/terminal.PNG)
 
 ## Easy to use
 
