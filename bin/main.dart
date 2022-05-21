@@ -68,7 +68,7 @@ Future<void> main() async {
   // If the file is exist
   // We will read the file in here with the jsonDecode function
   final jsonFileSource =
-      myFile!.readAsString().then((data) => jsonDecode(data));
+      myFile?.readAsString().then((data) => jsonDecode(data));
 
   // Cast the jsonFileSource to Map<String, dynamic>
   // Because the jsonFileSource is a Future<dynamic>
