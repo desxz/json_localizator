@@ -8,7 +8,7 @@ Supported more than 100 languages. All of languages and short forms [here.](http
 
 You can download JsonLocalizator v1.0.0
 
-## Windows
+## Windows / MacOs
 [Download](https://github.com/desxz/json_localizator/releases/tag/JsonLocalizator)
 
 # Usage
