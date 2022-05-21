@@ -1,0 +1,20 @@
+{
+    "Hello": "Hello there",
+    "Error": "Mistake",
+    "Test": "Test",
+    "Software": "Software",
+    "Hardware": "Equipment",
+    "Server": "Server",
+    "Date": "17.11.2021",
+    "Number": 2021,
+    "Design": {
+        "Hello": "Cat",
+        "Error": "Dog",
+        "Test": "Giraffe",
+        "Software": "Monkey",
+        "Hardware": "Fish",
+        "Server": "market",
+        "Date": "17.11.2021",
+        "Number": 2021
+    }
+}
